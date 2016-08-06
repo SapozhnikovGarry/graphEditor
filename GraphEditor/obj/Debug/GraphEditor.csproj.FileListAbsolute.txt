@@ -1,0 +1,29 @@
+c:\users\administrator\documents\visual studio 2013\Projects\GraphEditor\GraphEditor\bin\Debug\GraphEditor.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\GraphEditor\GraphEditor\bin\Debug\GraphEditor.exe
+c:\users\administrator\documents\visual studio 2013\Projects\GraphEditor\GraphEditor\bin\Debug\GraphEditor.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\GraphEditor\GraphEditor\obj\Debug\GraphEditor.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\GraphEditor\GraphEditor\obj\Debug\GraphEditor.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\GraphEditor\GraphEditor\obj\Debug\GraphEditor.exe
+c:\users\administrator\documents\visual studio 2013\Projects\GraphEditor\GraphEditor\obj\Debug\GraphEditor.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GraphEditor\GraphEditor\obj\Debug\GraphEditor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GraphEditor\GraphEditor\obj\Debug\GraphEditor.Form1.resources
+C:\Users\Администратор\Desktop\GraphEditor\GraphEditor\bin\Debug\GraphEditor.exe.config
+C:\Users\Администратор\Desktop\GraphEditor\GraphEditor\obj\Debug\GraphEditor.exe
+C:\Users\Администратор\Desktop\GraphEditor\GraphEditor\obj\Debug\GraphEditor.pdb
+C:\Users\Администратор\Desktop\GraphEditor\GraphEditor\bin\Debug\GraphEditor.exe
+C:\Users\Администратор\Desktop\GraphEditor\GraphEditor\bin\Debug\GraphEditor.pdb
+C:\Users\Администратор\Desktop\GraphEditor\GraphEditor\obj\Debug\GraphEditor.Form1.resources
+C:\Users\Администратор\Desktop\GraphEditor\GraphEditor\obj\Debug\GraphEditor.Properties.Resources.resources
+C:\Users\Администратор\Desktop\GraphEditor\GraphEditor\obj\Debug\GraphEditor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GraphEditor\GraphEditor\bin\Debug\GraphEditor.exe.config
+C:\Users\Administrator\Desktop\GraphEditor\GraphEditor\obj\Debug\GraphEditor.exe
+C:\Users\Administrator\Desktop\GraphEditor\GraphEditor\obj\Debug\GraphEditor.pdb
+C:\Users\Administrator\Desktop\GraphEditor\GraphEditor\bin\Debug\GraphEditor.exe
+C:\Users\Administrator\Desktop\GraphEditor\GraphEditor\bin\Debug\GraphEditor.pdb
+C:\Users\Administrator\Desktop\GraphEditor\GraphEditor\obj\Debug\GraphEditor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GraphEditor\GraphEditor\obj\Debug\GraphEditor.Form1.resources
+C:\Users\Administrator\Desktop\GraphEditor\GraphEditor\obj\Debug\GraphEditor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GraphEditor\GraphEditor\obj\Debug\GraphEditor.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\GraphEditor\GraphEditor\obj\Debug\GraphEditor.Form2.resources
+C:\Users\Administrator\Desktop\GraphEditor\GraphEditor\obj\Debug\GraphEditor.Form2.resources
+C:\Users\Администратор\Desktop\GraphEditor\GraphEditor\obj\Debug\GraphEditor.csprojResolveAssemblyReference.cache
